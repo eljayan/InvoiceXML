@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>0712201601200800300000625609913702260</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">07/12/2016 16:20:55.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>TORRES &amp; TORRES AGENTES DE ADUANAS (TTADAD) C.A.</razonSocial>
+        <nombreComercial>TORRES Y TORRES</nombreComercial>
+        <ruc>0991370226001</ruc>
+        <claveAcceso>0712201601099137022600120080030000062560072974512</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>008</estab>
+        <ptoEmi>003</ptoEmi>
+        <secuencial>000006256</secuencial>
+        <dirMatriz>Rosendo Aviles 1318 y J.Antepara</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>07/12/2016</fechaEmision>
+        <dirEstablecimiento>Luxemburgo N34-340 Y Portugal Edif. Braganza Piso 3 Of. 9</dirEstablecimiento>
+        <contribuyenteEspecial>1305</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>HUAWEI TECHNOLOGIES CO. LTD.</razonSocialComprador>
+        <identificacionComprador>1791845722001</identificacionComprador>
+        <totalSinImpuestos>356.90</totalSinImpuestos>
+        <totalDescuento>0</totalDescuento>
+        <codDocReembolso>41</codDocReembolso>
+        <totalComprobantesReembolso>390.76</totalComprobantesReembolso>
+        <totalBaseImponibleReembolso>356.90</totalBaseImponibleReembolso>
+        <totalImpuestoReembolso>33.86</totalImpuestoReembolso>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>115.0</baseImponible>
+                <tarifa>0.0</tarifa>
+                <valor>0.0</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>3</codigoPorcentaje>
+                <baseImponible>241.90</baseImponible>
+                <tarifa>14.0</tarifa>
+                <valor>33.86</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>390.76</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>390.76</total>
+                <plazo>30</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>R0004</codigoPrincipal>
+            <descripcion>REEMBOLSO BODEGAJE</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>105.15</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>105.15</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="REEMBOLSO BODEGAJE Fact 007001000073971 RUC:1791330463001 SERVICIOS LOGISTICOS INTEGRADOS COIMPEXA CIA. LTDA" valor="REF"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>3</codigoPorcentaje>
+                    <tarifa>14.0</tarifa>
+                    <baseImponible>105.15</baseImponible>
+                    <valor>14.72</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>R0024</codigoPrincipal>
+            <descripcion>REEMBOLSO GUIA AEREO</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>134.96</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>134.96</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="REEMBOLSO GUIA AEREO Fact 001001000271631 RUC:1791334477001 DHL GLOBAL FORWARDING (ECUADOR )S.A." valor="REF"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>3</codigoPorcentaje>
+                    <tarifa>14.0</tarifa>
+                    <baseImponible>134.96</baseImponible>
+                    <valor>18.89</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>RT001</codigoPrincipal>
+            <descripcion>REEMBOLSO DE TRANSPORTE</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>115.0</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>115.0</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="REEMBOLSO DE TRANSPORTE Fact 004002000003764 RUC:0991456848001 CIATEITE S.A" valor="REF"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>115.0</baseImponible>
+                    <valor>0.0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>R0205</codigoPrincipal>
+            <descripcion>REEMB. CERTIFICACION CHEQUES</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>1.79</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>1.79</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="REEMB. CERTIFICACION CHEQUES Fact 001005000007809 RUC:1790033295001 CITIBANK N. A. SUCURSAL ECUADOR" valor="REF"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>3</codigoPorcentaje>
+                    <tarifa>14.0</tarifa>
+                    <baseImponible>1.79</baseImponible>
+                    <valor>0.25</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <reembolsos>
+        <reembolsoDetalle>
+            <tipoIdentificacionProveedorReembolso>04</tipoIdentificacionProveedorReembolso>
+            <identificacionProveedorReembolso>1791330463001</identificacionProveedorReembolso>
+            <codPaisPagoProveedorReembolso>593</codPaisPagoProveedorReembolso>
+            <tipoProveedorReembolso>02</tipoProveedorReembolso>
+            <codDocReembolso>01</codDocReembolso>
+            <estabDocReembolso>007</estabDocReembolso>
+            <ptoEmiDocReembolso>001</ptoEmiDocReembolso>
+            <secuencialDocReembolso>000073971</secuencialDocReembolso>
+            <fechaEmisionDocReembolso>05/12/2016</fechaEmisionDocReembolso>
+            <numeroautorizacionDocReemb>1119423590</numeroautorizacionDocReemb>
+            <detalleImpuestos>
+                <detalleImpuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>3</codigoPorcentaje>
+                    <tarifa>14</tarifa>
+                    <baseImponibleReembolso>105.15</baseImponibleReembolso>
+                    <impuestoReembolso>14.72</impuestoReembolso>
+                </detalleImpuesto>
+            </detalleImpuestos>
+        </reembolsoDetalle>
+        <reembolsoDetalle>
+            <tipoIdentificacionProveedorReembolso>04</tipoIdentificacionProveedorReembolso>
+            <identificacionProveedorReembolso>1791334477001</identificacionProveedorReembolso>
+            <codPaisPagoProveedorReembolso>593</codPaisPagoProveedorReembolso>
+            <tipoProveedorReembolso>02</tipoProveedorReembolso>
+            <codDocReembolso>01</codDocReembolso>
+            <estabDocReembolso>001</estabDocReembolso>
+            <ptoEmiDocReembolso>001</ptoEmiDocReembolso>
+            <secuencialDocReembolso>000271631</secuencialDocReembolso>
+            <fechaEmisionDocReembolso>24/11/2016</fechaEmisionDocReembolso>
+            <numeroautorizacionDocReemb>2411201601200100100027163117913344777</numeroautorizacionDocReemb>
+            <detalleImpuestos>
+                <detalleImpuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>3</codigoPorcentaje>
+                    <tarifa>14</tarifa>
+                    <baseImponibleReembolso>134.96</baseImponibleReembolso>
+                    <impuestoReembolso>18.89</impuestoReembolso>
+                </detalleImpuesto>
+            </detalleImpuestos>
+        </reembolsoDetalle>
+        <reembolsoDetalle>
+            <tipoIdentificacionProveedorReembolso>04</tipoIdentificacionProveedorReembolso>
+            <identificacionProveedorReembolso>0991456848001</identificacionProveedorReembolso>
+            <codPaisPagoProveedorReembolso>593</codPaisPagoProveedorReembolso>
+            <tipoProveedorReembolso>02</tipoProveedorReembolso>
+            <codDocReembolso>01</codDocReembolso>
+            <estabDocReembolso>004</estabDocReembolso>
+            <ptoEmiDocReembolso>002</ptoEmiDocReembolso>
+            <secuencialDocReembolso>000003764</secuencialDocReembolso>
+            <fechaEmisionDocReembolso>06/12/2016</fechaEmisionDocReembolso>
+            <numeroautorizacionDocReemb>0612201601200400200000376409914568480</numeroautorizacionDocReemb>
+            <detalleImpuestos>
+                <detalleImpuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponibleReembolso>115.0</baseImponibleReembolso>
+                    <impuestoReembolso>0.0</impuestoReembolso>
+                </detalleImpuesto>
+            </detalleImpuestos>
+        </reembolsoDetalle>
+        <reembolsoDetalle>
+            <tipoIdentificacionProveedorReembolso>04</tipoIdentificacionProveedorReembolso>
+            <identificacionProveedorReembolso>1790033295001</identificacionProveedorReembolso>
+            <codPaisPagoProveedorReembolso>593</codPaisPagoProveedorReembolso>
+            <tipoProveedorReembolso>02</tipoProveedorReembolso>
+            <codDocReembolso>01</codDocReembolso>
+            <estabDocReembolso>001</estabDocReembolso>
+            <ptoEmiDocReembolso>005</ptoEmiDocReembolso>
+            <secuencialDocReembolso>000007809</secuencialDocReembolso>
+            <fechaEmisionDocReembolso>05/12/2016</fechaEmisionDocReembolso>
+            <numeroautorizacionDocReemb>0512201601179003329500120010050000078090003177211</numeroautorizacionDocReemb>
+            <detalleImpuestos>
+                <detalleImpuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>3</codigoPorcentaje>
+                    <tarifa>14</tarifa>
+                    <baseImponibleReembolso>1.79</baseImponibleReembolso>
+                    <impuestoReembolso>0.25</impuestoReembolso>
+                </detalleImpuesto>
+            </detalleImpuestos>
+        </reembolsoDetalle>
+    </reembolsos>
+    <infoAdicional>
+        <campoAdicional nombre="Pedido">TRM:2016TQ01694/PED:0Y02181600010HHWA02K  HTM2016111400757/</campoAdicional>
+        <campoAdicional nombre="Dir. Cliente">AV. REPUBLICA DEL SALVADOR N34-493 Y PORTUGAL</campoAdicional>
+        <campoAdicional nombre="Refrendo">05520161000744507</campoAdicional>
+        <campoAdicional nombre="PedidoCompra">0Y02181600010HHWA02K // HTM2016111400757</campoAdicional>
+        <campoAdicional nombre="FormaPago">OTROS CON UTILIZACION DEL SISTEMA FINANCIERO (20)  Plazo: 30 DIAS</campoAdicional>
+        <campoAdicional nombre="Monto de Pago">390.76</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature146279">
+<ds:SignedInfo Id="Signature-SignedInfo39772">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID693677" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature146279-SignedProperties386417">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>XQahV2DOG+kwoapGS1s1kjO48V8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11035530">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>njS97eyTk8i/7g/YfsR9x2Z0B3s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-968369" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>DmAOUJHJfVyvYS5b1B8/8256ik8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue214227">
+WahM3HZbhI804DiwPgPWztcFxoozgiEbM0BiHiUDzWrC5HiNIiaLOfKfjs39qfct2STzxkEn0US6
+qDerO5uLqOh0KzsE6U7HeleSxFmSpaBaMJSYCiQnAgAiMqDMmSpNAQwRDgPOTFPikbCLoTRMUnnA
+QvulKwwWtAn5EOksw5MJP9dytY3fazBjQJ3BuG51UNfQffvM9aaul1Fhem81F65Wmd28t2e3VJ4F
+bMtEqlfHJoUfid+SB53aJAgy2Hpzt5/s5NvEx19ka9BlEBLyF3a3q7RNRBqiX021t+l8NgxWN8Rr
+dW0H6OyzG3Zi/kcTidPNPaWOqVt/8V1830QX/w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11035530">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKHzCCCAegAwIBAgIETkW0OjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE1MTIyMjEzMDQ1NFoXDTE3MTIyMjEzMzQ1
+NFowgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE2MBEGA1UEBRMKMDAwMDA4MDQwNzAhBgNVBAMTGklWT05ORSBDRUNJTElB
+IFJFTkRPTiBWRVJBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA18xz5g7a7puwkipC
+em0PGxCLGZy0+q4DdinPQy9Ty4LNOWLYsVns/8ErkxWeeNszWNtqXgXGVNZxGEV2HjUlt+QPAIy2
+sLIYeYQYYbcigzJABeIr1QZPQvlsYOORlrG7wbHtcSnbivfm9xLiC2mzVHjqRvMS5pjXzA/eei4x
+ikRyUPhJBtYD8HY6Ka3YzQTMZV8SRqGDNArFBH3DNTd13WAYBTHKC1xt0jAtFsM2Jfi4ASvVi7Wo
+LJ+tooV7gNJ/3q49eaX+SUGrKKycHs3Y2By1PEx/l2P3DwCnJ8C1AFFA/5MjGIIw/V94MW8AzJTv
+DJ/BVBRYm8nupJNn9nJ6+QIDAQABo4IFSjCCBUYwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYL
+KwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNh
+LWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+Bggr
+BgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29j
+c3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcDA7BgorBgEEAYKoOwMKBC0TK1RPUlJFUyAgVE9SUkVTIEFHRU5URVMgREUgQURV
+QU5BUyBUVEFEQUQgQ0EwHQYKKwYBBAGCqDsDCwQPEw0wOTkxMzcwMjI2MDAxMBoGCisGAQQBgqg7
+AwEEDBMKMDkxNzk2OTkwOTAeBgorBgEEAYKoOwMCBBATDklWT05ORSBDRUNJTElBMBYGCisGAQQB
+gqg7AwMECBMGUkVORE9OMBQGCisGAQQBgqg7AwQEBhMEVkVSQTAvBgorBgEEAYKoOwMFBCETH0pF
+RkUgREUgRkFDVFVSQUNJT04gWSBDT0JSQU5aQVMwNgYKKwYBBAGCqDsDBwQoEyZST1NFTkRPIEFW
+SUxFUyAxMzE4IFkgSk9TRSBERSBBTlRFUEFSQTAZBgorBgEEAYKoOwMIBAsTCTA0MzcwNDQ3MDAZ
+BgorBgEEAYKoOwMJBAsTCUd1YXlhcXVpbDAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYB
+BAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCQGA1UdEQQdMBuBGWlyZW5kb25AdG9ycmVzeXRv
+cnJlcy5jb20wggHfBgNVHR8EggHWMIIB0jCCAc6gggHKoIIBxoaB1WxkYXA6Ly9iY2VxbGRhcHN1
+YnAxLmJjZS5lYy9jbj1DUkwyODUsY249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VB
+RE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JN
+QUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRp
+ZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lf
+YmNlX2VjX2NybGZpbGVjb21iLmNybKSBtTCBsjELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNP
+IENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBD
+RU5UUkFMIERFTCBFQ1VBRE9SMQ8wDQYDVQQDEwZDUkwyODUwKwYDVR0QBCQwIoAPMjAxNTEyMjIx
+MzA0NTRagQ8yMDE3MTIyMjEzMzQ1NFowHwYDVR0jBBgwFoAUGPnw++YyHJlmOSrKi7JpfUknv84w
+HQYDVR0OBBYEFMihLZEvRtSM/d4+cmyljqLVMVj4MAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAww
+ChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIBAK2yo1iFbFl1b3AgWx5o47nYZGNIffnn4NIc
+9FGrvMfXa3QYwBS7EMXO/IvW2HUmrS8JVva5HbBfoPLBZad01fC3zRd8jJdvMAJ00USYfquOxZdE
+F1Vz9xZQdjgPwouZf62Ti6dP03mmS2bv4KXeS8w/1WLpLmavugstM8xsyLRqB007BsdpNJ5zAQkG
+PgqVB+n9geNUrndZbWLRcsMrAB91FFe3qAM3xrVOtf1mJgDONrufCCjWtBIJ/ttynehgrMp8XBUU
+xgABmEt3AFzqwnWoiMSLjHrMYZ3xSwn8BjoWctGw46PwJuipSpwSMgb3Mw3ODcjF5im/DGbavDyo
+9boMl1t82c+Q0QYzsSdFl1fHgji9otYSJhP/AFcYCXfH7LAIABqFGzSZg+CFU1Ct1ZuEnm+J+FcM
++J3lhZbDjjMr4pBPph6NAun7obepnMLWOv5/WiEAW2GGO9mr2rf//vgYr64FuI02AuX+0SM4WSyg
+z4k8UB9w38f93JR1iDkJAYheB0gg017I7guaNwdwEfBZGPtB9xCjP60oSPVFBGvdxHZ8i7VoqB7e
+1t6aXR01aHhiWG3Zpl8vIxsmff811Ho/yYtY1DeItxyHSWR6Vlfz5/wPd4J8jr9d9tKOWXa+iPz0
+UIrY2Q7RFPL3kxW69DeAdxBqQgSW0vEiH0vbIau5
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+18xz5g7a7puwkipCem0PGxCLGZy0+q4DdinPQy9Ty4LNOWLYsVns/8ErkxWeeNszWNtqXgXGVNZx
+GEV2HjUlt+QPAIy2sLIYeYQYYbcigzJABeIr1QZPQvlsYOORlrG7wbHtcSnbivfm9xLiC2mzVHjq
+RvMS5pjXzA/eei4xikRyUPhJBtYD8HY6Ka3YzQTMZV8SRqGDNArFBH3DNTd13WAYBTHKC1xt0jAt
+FsM2Jfi4ASvVi7WoLJ+tooV7gNJ/3q49eaX+SUGrKKycHs3Y2By1PEx/l2P3DwCnJ8C1AFFA/5Mj
+GIIw/V94MW8AzJTvDJ/BVBRYm8nupJNn9nJ6+Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature146279-Object73624"><etsi:QualifyingProperties Target="#Signature146279"><etsi:SignedProperties Id="Signature146279-SignedProperties386417"><etsi:SignedSignatureProperties><etsi:SigningTime>2016-12-07T16:20:50-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>meFsypA6ysMxQg1oZlQ9Y8tcUWI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1313190970</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-968369"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>
